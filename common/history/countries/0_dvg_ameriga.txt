@@ -143,9 +143,7 @@
 		set_ruling_interest_groups = {
 			ig_landowners
 		}
-		ig:ig_landowners = {
-			set_interest_group_name = ig_inka
-		}		
+		
 		trigger_event = {
 			id = dvg_tawantisuyu_reconquest.1
 		}

@@ -1,4 +1,5 @@
 ﻿l_english:
+ #Cultures
  north_german: "Elbian"
  south_german: "Danubian"
  spanish: "Castilian"
@@ -9,3 +10,10 @@
  boer: "Geus"
  amazonian: "Amazonian Native"
  
+ #Heritages - no idea why this isn't working, commented out for now in case it breaks something
+ #native_north_american_culture_group: "Native Arcadian"
+ #native_mesoamerican_culture_group: "Mesoarcadian"
+ #native_south_american_culture_group: "Native Amerigan"
+ #native_american_minor: "Native Arcadian Minor"
+ #latin_american_culture_group: "Latin Arcadian and Amerigan"
+ #central_american: "Central Arcadian"
