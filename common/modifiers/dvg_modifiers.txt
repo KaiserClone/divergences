@@ -29,5 +29,6 @@ qin_federal_sys_better = { #The cooler QFM
 }
 
 qin_slightly_upset = { #small radical gain from unitary state
+	icon = gfx/interface/icons/timed_modifier_icons/modifier_statue_negative.dds
 	state_radicals_from_sol_change_mult = 0.05
 }
